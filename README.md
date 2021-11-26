@@ -1,10 +1,7 @@
 # MATLABcode
+# Code with MATLAB to do something
+## IdealFilter.m
+数字图像FFT变换
 
+![image](https://user-images.githubusercontent.com/94292494/143592945-bc24f484-03b3-43e8-af2b-57b4576f2aa1.png)
 
-撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd>
-重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd>
-加粗：<kbd>Ctrl/Command</kbd> + <kbd>B</kbd>
-斜体：<kbd>Ctrl/Command</kbd> + <kbd>I</kbd>
-复制：<kbd>Ctrl/Command</kbd> + <kbd>C</kbd>
-剪切：<kbd>Ctrl/Command</kbd> + <kbd>X</kbd>
-黏贴：<kbd>Ctrl/Command</kbd> + <kbd>V</kbd>
