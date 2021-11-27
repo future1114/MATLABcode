@@ -9,3 +9,6 @@
 一个动态的心
 
 ![心](https://user-images.githubusercontent.com/94292494/143664587-72caaf9a-23c6-4d0f-85ce-36272b4e171c.gif)
+
+## lagrangeinterpolationerror.m
+拉格朗日插值法
