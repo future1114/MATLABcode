@@ -2,7 +2,7 @@
 ## DaiYuChuFa.m
 辗转相除
 ## DuoXiangShiChengFa.m
-多项式除法
+多项式乘法
 ## mGCD.m
 欧几里得算法
 ## mIPT.m
